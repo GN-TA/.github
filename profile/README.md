@@ -1,3 +1,5 @@
+<div align=center>
+  
 # 오픈소스 기반 IoT-Platform
 NHN Academy IoT Service Platform Project
 
@@ -6,3 +8,4 @@ NHN Academy IoT Service Platform Project
 <br>
 
 ![아키텍처 drawio](https://github.com/user-attachments/assets/cfd874da-88d7-4a4b-aa25-bc597e2b8cfa)
+</div>
